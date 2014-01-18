@@ -21,6 +21,8 @@ The table of contents is an unordered list using reference style links. Refrence
 
 ### Basic Formatting ###
 
+### NOTE: If you have a suggestion for how a template could be improved, please discuss with the issue tracker before editing. ###
+
 This is a template for all the documents in this repository in an attempt for consistent layouts. All other templates should be based off of this file.
 
 Refer to [Github Flavored Markdown] Refer to aforementioned link for anything formatting questions not detailed in here.
