@@ -41,15 +41,17 @@ Sections should be separated by horizontal rules.
 
 <a name="Lists"/>
 
-### Lists ###
+### Unordered Lists ###
 
   * Lists should be indented by 2 spaces
   * Unordered lists should use stars ONLY
 
+### Ordered Lists ###
+
   1. Ordered lists should replicate the expected order in the source.
   2. Members of the same list should **NOT** have an empty line between them.
-     New paragraphs in lists should also be indented. 
 
+     New paragraphs in lists should also be indented. 
 
 ---------------------------------------------------
 
