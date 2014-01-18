@@ -1,6 +1,6 @@
 # Title #
 
-## Subtitle (if needed) ## 
+## Subtitle (if needed) ##
 
 ---------------------------------------------------
 
@@ -9,15 +9,10 @@
 The table of contents is an unordered list using reference style links. Refrences should be descriptively named. Use H3 as section titles. 
 
   * [Basic Formatting](#Basic)
-
   * [Lists](#Lists)
-
   * [Code](#Code)
-
   * [Images](#Images)
-
   * [Task Lists](#Task)
-
   * [Issues](#Issues)
 
 ---------------------------------------------------
@@ -25,6 +20,8 @@ The table of contents is an unordered list using reference style links. Refrence
 <a name="Basic"/>
 
 ### Basic Formatting ###
+
+### NOTE: If you have a suggestion for how a template could be improved, please discuss with the issue tracker before editing. ###
 
 This is a template for all the documents in this repository in an attempt for consistent layouts. All other templates should be based off of this file.
 
@@ -46,16 +43,16 @@ Sections should be separated by horizontal rules.
 
 <a name="Lists"/>
 
-### Lists ###
+### Unordered Lists ###
 
   * Lists should be indented by 2 spaces
-
   * Unordered lists should use stars ONLY
 
+### Ordered Lists ###
+
   1. Ordered lists should replicate the expected order in the source.
-
-  2. Lists should also have an empty line between them.
-
+  2. Members of the same list should **NOT** have an empty line between them. 
+  3. 4 spaces must occur before a newline in lists.    
      New paragraphs in lists should also be indented. 
 
 ---------------------------------------------------
@@ -86,17 +83,6 @@ If images are referenced, make sure they use the same syntax as the links. All i
 !["Hi! I'm a penguin!"][Tux]
 
 [Tux]: http://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png   "Tux, the Linux mascot."
-
---------------------------------------------------
-
-<a name="Task"/>
-
-### Task Lists ###
-
-Ensure that a mention is included to the person or persons, as well as an issue (if applicable). 
-
-- [x] This task was completed by @alexschneider94
-- [ ] This task needs to be completed by @alexschneider94.
 
 --------------------------------------------------
 
