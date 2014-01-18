@@ -82,17 +82,6 @@ If images are referenced, make sure they use the same syntax as the links. All i
 
 --------------------------------------------------
 
-<a name="Task"/>
-
-### Task Lists ###
-
-Ensure that a mention is included to the person or persons, as well as an issue (if applicable). 
-
-- [x] This task was completed by @alexschneider94
-- [ ] This task needs to be completed by @alexschneider94.
-
---------------------------------------------------
-
 <a name="Issues"/>
 
 ### Issues ###
