@@ -8,7 +8,7 @@
 
 The table of contents is an unordered list using reference style links. Refrences should be descriptively named. Use H3 as section titles. 
 
-  * [Basic Formatting](#Basic Formatting)
+  * [Basic Formatting](#Basic)
 
   * [Lists](#Lists)
 
@@ -16,17 +16,19 @@ The table of contents is an unordered list using reference style links. Refrence
 
   * [Images](#Images)
 
-  * [Task Lists](#Task Lists)
+  * [Task Lists](#Task)
 
   * [Issues](#Issues)
 
 ---------------------------------------------------
 
+<a name="Basic"/>
+
 ### Basic Formatting ###
 
 This is a template for all the documents in this repository in an attempt for consistent layouts. All other templates should be based off of this file.
 
-Refer to [Github Flavored Markdown][GFM] Refer to aforementioned link for anything formatting questions not detailed in here.
+Refer to [Github Flavored Markdown] Refer to aforementioned link for anything formatting questions not detailed in here.
 
 Make sure all links are reference style, include references at the bottom of the section. Try to make references unique and descriptive.
 
@@ -38,9 +40,11 @@ There should not be **ANY** hard tabs in this at all.
 
 Sections should be separated by horizontal rules. 
 
-[GFM]: https://help.github.com/articles/github-flavored-markdown    "Github Flavored Markdown"
+[Github Flavored Markdown]: https://help.github.com/articles/github-flavored-markdown    "Github Flavored Markdown"
 
 ---------------------------------------------------
+
+<a name="Lists"/>
 
 ### Lists ###
 
@@ -55,6 +59,8 @@ Sections should be separated by horizontal rules.
      New paragraphs in lists should also be indented. 
 
 ---------------------------------------------------
+
+<a name="Code"/>
 
 ### Code ###
 
@@ -71,6 +77,8 @@ int main( int argc, char* argv[] )
 
 --------------------------------------------------
 
+<a name="Images"/>
+
 ### Images ###
 
 If images are referenced, make sure they use the same syntax as the links. All images should be on their own line. 
@@ -81,6 +89,8 @@ If images are referenced, make sure they use the same syntax as the links. All i
 
 --------------------------------------------------
 
+<a name="Task"/>
+
 ### Task Lists ###
 
 Ensure that a mention is included to the person or persons, as well as an issue (if applicable). 
@@ -89,6 +99,8 @@ Ensure that a mention is included to the person or persons, as well as an issue 
 - [ ] This task needs to be completed by @alexschneider94.
 
 --------------------------------------------------
+
+<a name="Issues"/>
 
 ### Issues ###
 
