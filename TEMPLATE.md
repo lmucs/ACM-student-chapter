@@ -8,17 +8,17 @@
 
 The table of contents is an unordered list using reference style links. Refrences should be descriptively named. Use H3 as section titles. 
 
-  * [Basic Formatting][#Basic Formatting]
+  * [Basic Formatting](#Basic Formatting)
 
-  * [Lists][#Lists]
+  * [Lists](#Lists)
 
-  * [Code][#Code]
+  * [Code](#Code)
 
-  * [Images][#Images]
+  * [Images](#Images)
 
-  * [Task Lists][#Task Lists]
+  * [Task Lists](#Task Lists)
 
-  * [Issues][#Issues]
+  * [Issues](#Issues)
 
 ---------------------------------------------------
 
