@@ -49,8 +49,8 @@ Sections should be separated by horizontal rules.
 ### Ordered Lists ###
 
   1. Ordered lists should replicate the expected order in the source.
-  2. Members of the same list should **NOT** have an empty line between them.
-
+  2. Members of the same list should **NOT** have an empty line between them. 
+  3. 4 spaces must occur before a newline in lists.    
      New paragraphs in lists should also be indented. 
 
 ---------------------------------------------------
