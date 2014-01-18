@@ -1,24 +1,24 @@
-#Title#
+# Title #
 
-##Subtitle (if needed)## 
+## Subtitle (if needed) ## 
 
 ---------------------------------------------------
 
-###Table of Contents###
+### Table of Contents ###
 
 The table of contents is an unordered list using reference style links. Refrences should be descriptively named. Use H3 as section titles. 
 
-  * [Basic Formatting][]
+  * [Basic Formatting][#Basic Formatting]
 
-  * [Lists][]
+  * [Lists][#Lists]
 
-  * [Code][]
+  * [Code][#Code]
 
-  * [Images][]
+  * [Images][#Images]
 
-  * [Task Lists][]
+  * [Task Lists][#Task Lists]
 
-  * [Issues][]
+  * [Issues][#Issues]
 
 ---------------------------------------------------
 
