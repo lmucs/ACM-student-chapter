@@ -1,8 +1,6 @@
 # Title #
 
-## Subtitle (if needed)  ## 
-
-## Test ##
+## Subtitle (if needed\)  ## 
 
 ---------------------------------------------------
 
