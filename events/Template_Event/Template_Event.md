@@ -8,8 +8,6 @@
 
 ### Table of Contents ###
 
-The table of contents is an unordered list using reference style links. Refrences should be descriptively named. Use H3 as section titles. 
-
   * [Description of Event](#Description)
   * [Planning of Event](#Planning)
   * [Day of Event](#Day)
