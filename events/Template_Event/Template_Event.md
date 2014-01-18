@@ -13,7 +13,7 @@
   * [Day of Event](#Day)
   * [Results](#Images)
   * [Task Planning](#Task)
-  * [Conclusion](#Issues)
+  * [Conclusion](#Conclusion)
 
 ---------------------------------------------------
 
@@ -35,6 +35,7 @@ TODO List:
   * Item 3
   * Item 4
   * Item 5
+
 ---------------------------------------------------
 
 <a name="Day"/>
