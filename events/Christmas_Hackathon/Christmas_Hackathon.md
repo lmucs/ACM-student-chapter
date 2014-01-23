@@ -86,7 +86,7 @@ If I have forgotten anyone, please feel free to use the issues page to request a
 [Javascript compiler for Iki]: https://github.com/rtoal/iki-compiler
 [Andrew Akers]: https://github.com/akrs
 [Pebble Smartwatch watchface]: https://github.com/akrs/moontiles
-[Alex Schneider]: https://github.com/alexschneider94
+[Alex Schneider]: https://github.com/alexschneider
 [Project Euler problems]: http://projecteuler.net/profile/aeiro.png
 
 --------------------------------------------------
