@@ -31,7 +31,7 @@ To connect to the chatroom, use these details:
 
 Hostname: chat.cs.lmu.edu
 Port: +6666 (Make sure that ssl certificate verification is off). 
-Password: lmucmsideptircserver
+Password: ~snipped~
 Channel: #general
 
 Client suggestions:
