@@ -29,9 +29,9 @@ This event is the first event for the Loyola Marymount ACM Club.
 
 To connect to the chatroom, use these details: 
 
-Hostname: chat.cs.lmu.edu
-Port: +6666 (Make sure that ssl certificate verification is off). 
-Password: ~snipped~
+Hostname: chat.cs.lmu.edu    
+Port: +6666 (Make sure that ssl certificate verification is off).     
+Password: ~~snipped~~        
 Channel: #general
 
 Client suggestions:
