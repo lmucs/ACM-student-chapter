@@ -1,4 +1,8 @@
-Okay so I can't draw very well, but the intent is that:
+Okay so I can't draw very well, but here goes: 
+
+![Sketch](https://raw2.github.com/lmu-acm-student-chapter/notes/master/shirts/rtoal-shirt.jpg)
+
+The intent is that:
 
 * On the front, we have "LMU COMPUTER SCIENCE" right on the center of the chest in a not-too-large rectangle, with "LMU" very large and "COMPUTER SCIENCE" in white text on a dark background.
 
