@@ -1,0 +1,39 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+
+\usepackage{tikz-qtree} % \begin{tikzpicture}[scale=.4, align=center] \Tree [.root leaf leaf leaf leaf] \end{tikzpicture}
+\usepackage{fancyvrb} % \begin{Verbatim}
+
+\title{Technical Interview Pro-Tips}
+\author{from Gayle Laakman's Cracking the Coding Interview}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section{General Advice: Five Steps}
+
+\begin{enumerate}
+\item Ask your interview questions to resolve ambiguity
+\item Design an algorithm
+\item Write pseudo-code first, but make sure your interviewer knows you will write real code later
+\item Write your code, not too slow and not too fast
+\item Test your code and carefully fix any mistakes
+\end{enumerate}
+
+\section{How to Build an Algorithm: Five Approaches}
+
+\begin{enumerate}
+\item Write out specific examples of the problem, and see if you can figure out a general rule.
+\item Consider what problems the algorithm is similar to, and figure out if you can modify
+      the solution to develop an algorithm for this problem.
+\item Change a constraint to simplify the problem. Then try to solve it. Once you have a
+      solution for the simplified problem, try to generalize it to the original problem.
+\item Solve the algorithm first for a base case (e.g, just one element). Then try to solve it
+      for elements one and two, and then for two and three, and then generalize.
+\item Simply run through a list of data structures and try to apply each one (hacky, but this
+      actually works).
+\end{enumerate}
+
+\end{document}
+
